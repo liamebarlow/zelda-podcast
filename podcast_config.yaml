@@ -5,18 +5,18 @@ metadata:
     In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen
   language: de-at
   link: http://example.com/podcast
-  itunes_image: http://github.com/liamebarlow/zelda-podcast/zelda-title.jpg
+  itunes_image: https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg
   itunes_category: Video Games 
   itunes_explicit: false
   itunes_author: Liam 
   itunes_email: podcast@nutmeg.at 
-  rss_feed_url: http://github.com/liamebarlow/zelda-podcast/zelda-title.jpg 
+  rss_feed_url: https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml
 
 episodes:
   - title: "Episode 1"
     description: "This is the *first* episode. You can also include [links](https://foobar.com)."
     publication_date: "2024-02-25T10:00:00"
-    asset_url: "http://github.com/liamebarlow/zelda-podcast/podcastzelda_trailer.mp3"
+    asset_url: https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3
     episode: 1
     season: 1
     episode_type: "trailer"
@@ -26,7 +26,7 @@ episodes:
   - title: "Gegner : Teil 1"
     description: "In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor."
     publication_date: "2024-02-25T11:00:00"
-    asset_url: "http://github.com/liamebarlow/zelda-podcast/podcastzeldagegner.mp3"
+    asset_url: https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3
     episode: 2
     season: 1
     episode_type: "full"
