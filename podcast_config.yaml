@@ -13,11 +13,10 @@ metadata:
   guid: "35101ac3-4efb-4cb9-97b9-59d2d987fab1"
 
 episodes:
-  - title: "Episode 1"
+  - title: "Trailer"
     description: "trailer"
     publication_date: "2024-02-25T10:00:00"
     asset_url: "https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3"
-    episode: 1
     season: 1
     episode_type: "trailer"
     itunes_explicit: false
@@ -26,7 +25,7 @@ episodes:
     description: "In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor."
     publication_date: "2024-02-25T11:00:00"
     asset_url: "https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3"
-    episode: 2
+    episode: 1
     season: 1
     episode_type: "full"
     itunes_explicit: false

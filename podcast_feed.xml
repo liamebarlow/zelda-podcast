@@ -19,13 +19,12 @@
 		<itunes:image href="https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg" />
 		<item>
 			<pubDate>Sun, 25 Feb 2024 10:00:00 -0000</pubDate>
-			<title>Episode 1</title>
+			<title>Trailer</title>
 			<description>&lt;![CDATA[&lt;p&gt;trailer&lt;/p&gt;]]&gt;</description>
 			<guid>https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3</guid>
 			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3" type="audio/mp3" length="203953" />
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>20</itunes:duration>
-			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>trailer</itunes:episodeType>
 			<link>https://liamebarlow.github.io/zelda-podcast/</link>
@@ -39,7 +38,7 @@
 			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>362</itunes:duration>
-			<itunes:episode>2</itunes:episode>
+			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 			<link>https://liamebarlow.github.io/zelda-podcast/</link>
