@@ -198,6 +198,7 @@ def generate_rss(config, output_file_path):
         itunes_image.set("href", itunes_image_url)
 
     tree = ET.ElementTree(rss)
+    ET.indent(tree, space="\t", level=0)
     tree.write(output_file_path, encoding="UTF-8", xml_declaration=True)
 
 
