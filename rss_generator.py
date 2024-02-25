@@ -133,6 +133,10 @@ def generate_rss(config, output_file_path):
     podcast_guid = ET.SubElement(channel, "podcast:guid")
     podcast_guid.text = metadata["guid"]
 
+    # locked
+    podcast_guid = ET.SubElement(channel, "podcast:locked")
+    podcast_guid.text = "no"
+
     # Add itunes:category tag
     if "itunes_category" in metadata:
         ET.SubElement(channel, "itunes:category", text=metadata["itunes_category"])
