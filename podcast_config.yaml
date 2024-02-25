@@ -20,8 +20,7 @@ episodes:
     episode: 1
     season: 1
     episode_type: "trailer"
-    #itunes_image: http://example.com/images/episode1.jpg
-    #link: http://example.com/episode1
+    itunes_explicit: false
 
   - title: "Gegner : Teil 1"
     description: "In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor."
@@ -30,3 +29,4 @@ episodes:
     episode: 2
     season: 1
     episode_type: "full"
+    itunes_explicit: false
