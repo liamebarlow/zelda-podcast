@@ -88,6 +88,7 @@ def generate_rss(config, output_file_path):
         attrib={
             "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
             "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         },
     )
     # Metadata
