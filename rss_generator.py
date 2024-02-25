@@ -56,23 +56,6 @@ def get_file_info(url):
     }
 
 
-def format_description(description):
-    """
-    Convert Markdown description to HTML
-    """
-    html_description = markdown.markdown(description)
-    wrapped_description = f"<![CDATA[{html_description}]]>"
-
-    # Ensure byte limit for the channel description
-    byte_limit = 4000
-    if len(wrapped_description.encode("utf-8")) > byte_limit:
-        # Truncate the description if it exceeds the limit
-        # Note: Truncation logic might need to be more sophisticated to handle HTML correctly
-        wrapped_description = wrapped_description[:byte_limit]
-
-    return wrapped_description
-
-
 def generate_rss(config, output_file_path):
     ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
     ET.register_namespace("atom", "http://www.w3.org/2005/Atom")
@@ -95,9 +78,7 @@ def generate_rss(config, output_file_path):
     channel = ET.SubElement(rss, "channel")
     metadata = config["metadata"]
     ET.SubElement(channel, "title").text = metadata["title"]
-    ET.SubElement(channel, "description").text = format_description(
-        metadata["description"]
-    )
+    ET.SubElement(channel, "description").text = metadata["description"]
     ET.SubElement(channel, "language").text = metadata.get("language", "en-us")
     ET.SubElement(channel, "link").text = metadata["link"]
     ET.SubElement(
@@ -162,9 +143,7 @@ def generate_rss(config, output_file_path):
             episode["publication_date"]
         )
         ET.SubElement(item, "title").text = episode["title"]
-        ET.SubElement(item, "description").text = format_description(
-            episode["description"]
-        )
+        ET.SubElement(item, "description").text = episode["description"]
         ET.SubElement(item, "guid").text = episode["asset_url"]
         ET.SubElement(
             item,

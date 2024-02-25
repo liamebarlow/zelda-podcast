@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
 		<title>The Legend of Zelda Tears of the Kingdom Podcast</title>
-		<description>&lt;![CDATA[&lt;p&gt;In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen&lt;/p&gt;]]&gt;</description>
+		<description>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</description>
 		<language>de-at</language>
 		<link>https://liamebarlow.github.io/zelda-podcast/</link>
 		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
@@ -20,7 +20,7 @@
 		<item>
 			<pubDate>Sun, 25 Feb 2024 10:00:00 -0000</pubDate>
 			<title>Trailer</title>
-			<description>&lt;![CDATA[&lt;p&gt;trailer&lt;/p&gt;]]&gt;</description>
+			<description>trailer</description>
 			<guid>https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3</guid>
 			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3" type="audio/mp3" length="203953" />
 			<itunes:explicit>false</itunes:explicit>
@@ -33,7 +33,7 @@
 		<item>
 			<pubDate>Sun, 25 Feb 2024 11:00:00 -0000</pubDate>
 			<title>Gegner: Teil 1</title>
-			<description>&lt;![CDATA[&lt;p&gt;In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.&lt;/p&gt;]]&gt;</description>
+			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
 			<guid>https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3</guid>
 			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
 			<itunes:explicit>false</itunes:explicit>
