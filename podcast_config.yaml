@@ -11,6 +11,7 @@ metadata:
   itunes_author: Liam 
   itunes_email: podcast@nutmeg.at 
   rss_feed_url: https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml
+  guid: 35101ac3-4efb-4cb9-97b9-59d2d987fab1
 
 episodes:
   - title: "Episode 1"

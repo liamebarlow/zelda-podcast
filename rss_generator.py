@@ -129,6 +129,10 @@ def generate_rss(config, output_file_path):
     itunes_summary = ET.SubElement(channel, "itunes:summary")
     itunes_summary.text = metadata["description"]
 
+    # guid
+    podcast_guid = ET.SubElement(channel, "podcast:guid")
+    podcast_guid.text = metadata["guid"]
+
     # Add itunes:category tag
     if "itunes_category" in metadata:
         ET.SubElement(channel, "itunes:category", text=metadata["itunes_category"])
