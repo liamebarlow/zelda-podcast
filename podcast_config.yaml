@@ -1,32 +1,31 @@
 ---
 metadata:
-  title: The Legend of Zelda Tears of the Kingdom Podcast
-  description: |
-    In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen
-  language: de-at
-  link: http://example.com/podcast
-  itunes_image: https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg
-  itunes_category: Video Games 
+  title: "The Legend of Zelda Tears of the Kingdom Podcast"
+  description: "In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen"
+  language: "de-at"
+  link: "https://liamebarlow.github.io/zelda-podcast/"
+  itunes_image: "https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg"
+  itunes_category: "Video Games"
   itunes_explicit: false
-  itunes_author: Liam 
-  itunes_email: podcast@nutmeg.at 
-  rss_feed_url: https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml
-  guid: 35101ac3-4efb-4cb9-97b9-59d2d987fab1
+  itunes_author: "Liam"
+  itunes_email: "podcast@nutmeg.at"
+  rss_feed_url: "https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml"
+  guid: "35101ac3-4efb-4cb9-97b9-59d2d987fab1"
 
 episodes:
   - title: "Episode 1"
-    description: "This is the *first* episode. You can also include [links](https://foobar.com)."
+    description: "trailer"
     publication_date: "2024-02-25T10:00:00"
-    asset_url: https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3
+    asset_url: "https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3"
     episode: 1
     season: 1
     episode_type: "trailer"
     itunes_explicit: false
 
-  - title: "Gegner : Teil 1"
+  - title: "Gegner: Teil 1"
     description: "In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor."
     publication_date: "2024-02-25T11:00:00"
-    asset_url: https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3
+    asset_url: "https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3"
     episode: 2
     season: 1
     episode_type: "full"
