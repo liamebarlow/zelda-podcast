@@ -79,7 +79,7 @@ def generate_rss(config, output_file_path):
 
     # Global itunes:explicit setting
     global_explicit = (
-        "yes" if config["metadata"].get("itunes_explicit", False) else "no"
+        "true" if config["metadata"].get("itunes_explicit", False) else "false"
     )
 
     rss = ET.Element(
