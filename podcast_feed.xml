@@ -4,9 +4,9 @@
 		<title>The Legend of Zelda Tears of the Kingdom Podcast</title>
 		<description>In diesem Podcast werde ich viel wissen über das Spiel The Legend of Zelda Tears of the Kingdom mit euch teilen</description>
 		<language>de-at</language>
-		<link>https://liamebarlow.github.io/zelda-podcast/</link>
+		<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
 		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
-		<atom:link href="https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://liamebarlow.b-cdn.net/zelda-podcast/podcast_feed.xml" rel="self" type="application/rss+xml" />
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:owner>
 			<itunes:email>podcast@nutmeg.at</itunes:email>
@@ -16,33 +16,33 @@
 		<podcast:guid>35101ac3-4efb-4cb9-97b9-59d2d987fab1</podcast:guid>
 		<podcast:locked>no</podcast:locked>
 		<itunes:category text="Video Games" />
-		<itunes:image href="https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg" />
+		<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
 		<item>
 			<pubDate>Sun, 25 Feb 2024 10:00:00 -0000</pubDate>
 			<title>Trailer</title>
 			<description>trailer</description>
-			<guid>https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3</guid>
-			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzelda_trailer.mp3" type="audio/mp3" length="203953" />
+			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcastzelda_trailer.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzelda_trailer.mp3" type="audio/mp3" length="203953" />
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>20</itunes:duration>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>trailer</itunes:episodeType>
-			<link>https://liamebarlow.github.io/zelda-podcast/</link>
-			<itunes:image href="https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg" />
+			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
 		</item>
 		<item>
 			<pubDate>Sun, 25 Feb 2024 11:00:00 -0000</pubDate>
 			<title>Gegner: Teil 1</title>
 			<description>In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor.</description>
-			<guid>https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3</guid>
-			<enclosure url="https://liamebarlow.github.io/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
+			<guid>https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner.mp3</guid>
+			<enclosure url="https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner.mp3" type="audio/mp3" length="3620177" />
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>362</itunes:duration>
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
-			<link>https://liamebarlow.github.io/zelda-podcast/</link>
-			<itunes:image href="https://liamebarlow.github.io/zelda-podcast/zelda-title.jpg" />
+			<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
+			<itunes:image href="https://liamebarlow.b-cdn.net/zelda-podcast/zelda-title.jpg" />
 		</item>
 	</channel>
 </rss>
