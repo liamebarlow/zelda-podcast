@@ -6,7 +6,7 @@
 		<language>de-at</language>
 		<link>https://liamebarlow.b-cdn.net/zelda-podcast/</link>
 		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
-		<atom:link href="https://liamebarlow.b-cdn.net/zelda-podcast/podcast_feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml" rel="self" type="application/rss+xml" />
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:owner>
 			<itunes:email>podcast@nutmeg.at</itunes:email>
