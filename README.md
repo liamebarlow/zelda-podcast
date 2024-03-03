@@ -28,3 +28,7 @@ https://podcastsmanager.google.com
 ### Apple Podcasts
 
 https://podcastsconnect.apple.com/my-podcasts
+
+### Amazon
+
+https://podcasters.amazon.com/podcasts
