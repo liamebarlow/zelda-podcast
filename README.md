@@ -12,3 +12,7 @@
 - Execute `git commit -a -m "add new episode"` to commit locally.
 - Execute `git push origin main` to push to servers
 - Check RSS is good at https://podba.se/?url=https://liamebarlow.github.io/zelda-podcast/podcast_feed.xml
+
+## Edit podcasts
+
+

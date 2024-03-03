@@ -29,3 +29,12 @@ episodes:
     season: 1
     episode_type: "full"
     itunes_explicit: false
+    
+  - title: "Gegner: Teil 2"
+    description: "In dieser episode von meinem podcast stelle ich euch die verschiedenen gegner in tears of the kingdom vor."
+    publication_date: "2024-03-03T18:00:00"
+    asset_url: "https://liamebarlow.b-cdn.net/zelda-podcast/podcastzeldagegner2.mp3"
+    episode: 2
+    season: 1
+    episode_type: "full"
+    itunes_explicit: false
