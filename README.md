@@ -1,6 +1,8 @@
 # zelda-podcast
 ## Upload MP3s
 - Add mp3 files to directory for new shows in directory
+- 'cd' change directory to correct directory, and 'ls' list files to make sure you are in right place
+- Check files to add with `git status`
 - Execute `git add *`
 - Execute `git commit -a -m "add new mp3 for episode"` to commit locally.
 - Execute `git commit origin main` to push mp3 to servers
