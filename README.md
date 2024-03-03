@@ -15,4 +15,14 @@
 
 ## Edit podcasts
 
+### Spotify
 
+https://podcasters.spotify.com/dash/home
+
+### Google
+
+https://podcastsmanager.google.com
+
+### Apple Podcasts
+
+https://podcastsconnect.apple.com/my-podcasts
